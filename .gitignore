@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.venv/
+.ipynb_checkpoints/
+
+# Data
+*.csv
+artifacts/
+artifacts_models/
+
+# OS
+.DS_Store
+Thumbs.db
