@@ -21,7 +21,7 @@ source .venv/bin/activate  # ou .\.venv\Scripts\activate sur Windows
 pip install -r requirements.txt
 ```
 
-3. Placez le fichier `Telco-Customer-Churn.csv` (dataset complet) à la racine du dépôt si vous l'avez.
+3. Placez le fichier `Telco-Customer-Churn.csv` (dataset complet) à la racine du dépôt.
 4. Ouvrez et exécutez `Churn_EDA_Preparation.ipynb`, puis `Churn_Modeling.ipynb`.
 
 
